@@ -19,7 +19,6 @@ Print both the values it would be interchanged
 End the program
 ## PROGRAM:
 ```
-#Program to swap two values.
 #Developed by: Beatrice Thomas
 #RegisterNumber: 23005036
 <<<<<<< HEAD
@@ -35,18 +34,6 @@ print("Swapped values are:",a,b)
 
 ![Alt text](<Screenshot 2023-11-10 093825.png>)
 
-
-=======
-
-a=input()
-b=input()
-temp=a
-a=b
-b=temp
-print("Swapped values are:",a,b)
-```
-## 
->>>>>>> a40356d617c97a3a2a4d5a644a4e2d1948a057b3
 ## RESULT:
 Thus the swapping of two values are successfully executed
 
